@@ -8,16 +8,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="" />
-<img align="left" alt="CSS3" width="26px" src="" />
-<img align="left" alt="JavaScript" width="26px" src="" />
-<img align="left" alt="React" width="26px" src="" />
-<img align="left" alt="MySQL" width="26px" src="" />
-<img align="left" alt="Java" width="26px" src="" />
-<img align="left" alt="Git" width="26px" src="" />
-<img align="left" alt="GitHub" width="26px" src="" />
-<img align="left" alt="Terminal" width="26px" src="" />
-<img align="left" alt="Visual Studio Code" width="26px" src="" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/react.png" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/mysql.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/java.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/visual-studio-code.png" />
 
 <br />
 <br />
