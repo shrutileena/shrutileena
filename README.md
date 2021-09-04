@@ -1,10 +1,8 @@
-### Hi there, I'm Shruti <img src="https://github.com/shrutileena/shrutileena/blob/master/assets/hi.gif" width="22px">
 
-### Connect with me:
+## Hi there, I'm Shruti <img src="https://github.com/shrutileena/shrutileena/blob/master/assets/hi.gif" width="22px">
 
-[<img align="left" alt="shrutileena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-<br />
 
 ### Languages and Tools:
 
@@ -30,5 +28,11 @@
 ###  Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrutileena&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutileena&theme=nord_dark)
+
+---
+
+### Can connect with me:
+
+[<img align="left" alt="shrutileena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/shruti-agarwal-7a024b157/
