@@ -12,7 +12,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/react.png" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/mysql.png" />
+<img align="left" alt="MySQL" width="28px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/mysql.png" />
 <img align="left" alt="Java" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/java.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/github.png" />
