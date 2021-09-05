@@ -1,8 +1,13 @@
 
 ## Hi there, I'm Shruti <img src="https://github.com/shrutileena/shrutileena/blob/master/assets/hi.gif" width="22px">
 
----
+<br />
 
+
+
+<br />
+
+---
 
 ### Languages and Tools:
 
@@ -18,14 +23,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/visual-studio-code.png" />
 
 <br />
-<br />
-
 ---
 
 ### GitHub Stats:
-![Shruti GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutileena&theme=nord&show_icons=true&count_private=true)
+![Shruti GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutileena&show_icons=true&include_all_commits=true&theme=material-palenight)
 
-###  Top Languages Used*:
+###  Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrutileena&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutileena&theme=nord_dark)
 
