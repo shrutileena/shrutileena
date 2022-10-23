@@ -1,13 +1,13 @@
 
 # Hi there, I'm Shruti <img src="https://github.com/shrutileena/shrutileena/blob/master/assets/hi.gif" width="22px">
 
-<p>
-  <em>
-    I'm currently working on Java and MySQL
-    Always enthusiastic about new technology
-    How to reach me: shrutileena@gmail.com
-  </em>  
-</p>
+<br>
+
+- I'm currently working on Java and MySQL
+- Always enthusiastic about new technology
+- How to reach me: shrutileena@gmail.com
+
+<br>
 
 <br />
 
