@@ -25,7 +25,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/visual-studio-code.png" />
 
 <br />
----
+
 
 ### Connect with me here:
 
