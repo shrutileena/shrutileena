@@ -7,12 +7,6 @@
 - Always enthusiastic about new technology
 - How to reach me: shrutileena@gmail.com
 
-<br>
-
-<br />
-
-
-
 <br />
 
 ---
