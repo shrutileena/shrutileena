@@ -13,16 +13,20 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/react.png" />
-<img align="left" alt="MySQL" width="28px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/mysql.png" />
-<img align="left" alt="Java" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/java.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/shrutileena/shrutileena/blob/master/assets/visual-studio-code.png" />
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 <br />
 
