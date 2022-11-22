@@ -4,7 +4,7 @@
 <br>
 
 - I'm currently working on Java and MySQL
-- Always enthusiastic about new technology
+- Always enthusiastic about technology
 - How to reach me: shrutileena@gmail.com
 
 <br />
