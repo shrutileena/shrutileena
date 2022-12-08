@@ -11,7 +11,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/shrutileena)
 
-<br />
 ---
 
 ### Languages and Tools:
