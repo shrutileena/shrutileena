@@ -9,9 +9,7 @@
 
 <br />
 
-
 ![Profile views](https://gpvc.arturio.dev/shrutileena)
-
 ---
 
 ### Languages and Tools:
