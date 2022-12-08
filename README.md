@@ -9,6 +9,9 @@
 
 <br />
 
+
+![Profile views](https://gpvc.arturio.dev/shrutileena)
+
 ---
 
 ### Languages and Tools:
@@ -45,8 +48,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutileena&theme=nord_dark)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=shrutileena&show_icons=true&count_private=true&theme=dark) -->
 ---
-
-![Profile views](https://gpvc.arturio.dev/shrutileena)
 
 <!-- ### Can connect with me:
 
