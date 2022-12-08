@@ -10,6 +10,8 @@
 <br />
 
 ![Profile views](https://gpvc.arturio.dev/shrutileena)
+
+<br />
 ---
 
 ### Languages and Tools:
@@ -28,8 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<br />
-
 ---
 
 ### Connect with me here:
@@ -39,13 +39,13 @@
 
 
 ### GitHub Stats:
-![Shruti GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutileena&show_icons=true&include_all_commits=true&theme=material-palenight)
+![Shruti GitHub stats]()
 
 ###  Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrutileena&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutileena&theme=nord_dark)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=shrutileena&show_icons=true&count_private=true&theme=dark) -->
----
+<!--->
 
 <!-- ### Can connect with me:
 
