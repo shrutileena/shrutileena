@@ -3,7 +3,7 @@
 
 <br>
 
-- I'm currently working on Java and MySQL
+- I'm currently working on Java, SpringBoot, Microservices and SQL
 - Always enthusiastic about technology
 - How to reach me: shrutileena@gmail.com
 
