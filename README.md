@@ -9,7 +9,7 @@
 
 <br />
 
-![Profile views](https://gpvc.arturio.dev/shrutileena)
+![Profile views](https://komarev.com/ghpvc/shrutileena=your-github-username)
 
 ---
 
