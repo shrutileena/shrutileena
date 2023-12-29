@@ -9,7 +9,7 @@
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/shrutileena=your-github-username)
+![Profile views](https://github.com/shrutileena/github-profile-views-counter)
 
 ---
 
