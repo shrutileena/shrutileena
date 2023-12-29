@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-black?style=flat-square&logo=spring)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-black?style=flat-square&logo=springboot)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
