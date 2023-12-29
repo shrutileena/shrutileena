@@ -38,7 +38,7 @@
 
 
 ### GitHub Stats:
-![Shruti GitHub stats]()
+[![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutileena)](https://github.com/shrutileena/github-readme-stats)
 
 ###  Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrutileena&theme=nord_dark)
