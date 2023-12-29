@@ -34,12 +34,6 @@
 
 ---
 
-### My Github Tropies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shrutileena)](https://github.com/shrutileena/github-profile-trophy)
-
----
-
 ### Connect with me here:
 
 <!-- [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/shrutileena)  -->
@@ -54,6 +48,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutileena&theme=nord_dark)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=shrutileena&show_icons=true&count_private=true&theme=dark) -->
 <!--->
+
+---
+
+### My Github Tropies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shrutileena)](https://github.com/shrutileena/github-profile-trophy)
+
 
 <!-- ### Can connect with me:
 
