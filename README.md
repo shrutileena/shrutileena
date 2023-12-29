@@ -1,13 +1,15 @@
 
 # Hi there, I'm Shruti <img src="https://github.com/shrutileena/shrutileena/blob/master/assets/hi.gif" width="22px">
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="200" alt="animated hello">
+
 <br>
+
+About Me :
 
 - I'm currently working on Java, SpringBoot, Microservices and SQL
 - Always enthusiastic about technology
 - How to reach me: shrutileena@gmail.com
-
-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 <br />
 
