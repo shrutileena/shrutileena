@@ -34,6 +34,12 @@
 
 ---
 
+### My Github Tropies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shrutileena)](https://github.com/shrutileena/github-profile-trophy)
+
+---
+
 ### Connect with me here:
 
 <!-- [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/shrutileena)  -->
