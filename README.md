@@ -72,7 +72,7 @@ An AI-powered document assistant that enables users to upload documents, ask que
 
 <br>
 
-### 🌍 GE Explorer
+### 🌍 GEO Explorer
 A full-stack web application designed to provide an interactive and user-friendly experience for exploring and managing geospatial data through a modern interface.
 
 **Tech Stack:** Java • Spring Boot • Angular • REST APIs • PostgreSQL
