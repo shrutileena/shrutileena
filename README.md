@@ -86,7 +86,7 @@ A full-stack web application designed to provide an interactive and user-friendl
   <a href="mailto:shrutileena@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/agarwlsh">
+  <a href="https://www.linkedin.com/in/agarwlsh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
