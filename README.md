@@ -17,7 +17,7 @@
 
 ## 🚀 Currently Working On
 
-- 📄 DocuMind AI – AI-powered document assistant
+- 📄 BodhLens AI – AI-powered document assistant
 - 🌐 Angular 22 + Spring Boot applications
 - 🤖 Generative AI & LangChain4j
 - 📚 System Design & Distributed Systems
@@ -63,7 +63,7 @@
 
 ## 🌟 Featured Projects
 
-### 📄 DocuMind AI *(In Progress)*
+### 📄 BodhLens AI *(In Progress)*
 An AI-powered document assistant that enables users to upload documents, ask questions, generate summaries and extract insights from documents using Large Language Models (LLMs).
 
 **Tech Stack:** Java • Spring Boot • Angular • PostgreSQL • LangChain4j • OpenAI
