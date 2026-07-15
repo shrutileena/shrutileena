@@ -1,70 +1,109 @@
 
-# Hi there, I'm Shruti <img src="https://github.com/shrutileena/shrutileena/blob/master/assets/hi.gif" width="22px">
+# Hi there, I'm Shruti Agarwal <img src="https://github.com/shrutileena/shrutileena/blob/master/assets/hi.gif" width="22px">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="280" alt="animated hello">
-<!--<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="200" alt="animated hello">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="200">-->
+### Java Full Stack Developer | Spring Boot | Angular | Microservices | REST APIs | SQL | AI Enthusiast
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="NUX_Octodex">-->
 <br>
 
-About Me :
+## 👩‍💻 About Me
 
-- I'm currently working on Java, SpringBoot, Microservices and SQL
-- Always enthusiastic about technology
-- How to reach me: shrutileena@gmail.com
+- 💼 Java Full Stack Developer with **5+ years** of experience
+- ⚙️ Experienced in **Spring Boot, Microservices, Angular, REST APIs & SQL**
+- ☁️ Worked with **PostgreSQL, MongoDB, Redis, RabbitMQ & Docker**
+- 🤖 Currently building **AI-powered applications** using **LangChain4j, OpenAI & RAG**
+- 🌱 Always learning and building solutions that solve real-world problems
 
-<br />
+<br>
+
+## 🚀 Currently Working On
+
+- 📄 DocuMind AI – AI-powered document assistant
+- 🌐 Angular 22 + Spring Boot applications
+- 🤖 Generative AI & LangChain4j
+- 📚 System Design & Distributed Systems
+
+<br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=shrutileena)
 
----
 
-### Languages and Tools:
+<br>
 
+## 🛠️ Tech Stack
+
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+
+<br>
+
+## 🌟 Featured Projects
+
+### 📄 DocuMind AI *(In Progress)*
+An AI-powered document assistant that enables users to upload documents, ask questions, generate summaries and extract insights from documents using Large Language Models (LLMs).
+
+**Tech Stack:** Java • Spring Boot • Angular • PostgreSQL • LangChain4j • OpenAI
+
+🔗 Repository: *Coming Soon*
+
+<br>
+
+### 🌍 GE Explorer
+A full-stack web application designed to provide an interactive and user-friendly experience for exploring and managing geospatial data through a modern interface.
+
+**Tech Stack:** Java • Spring Boot • Angular • REST APIs • PostgreSQL
+
+
+<br>
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:shrutileena@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/agarwlsh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<!--
 ---
 
-### Connect with me here:
+## 📊 GitHub Stats
 
-<!-- [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/shrutileena)  -->
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/shrutiaga/) [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='20'>](https://twitter.com/shruaga19)
-
-
-### GitHub Stats:
-[![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutileena)](https://github.com/shrutileena/github-readme-stats)
 
 ###  Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrutileena&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutileena&theme=nord_dark)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=shrutileena&show_icons=true&count_private=true&theme=dark) -->
-<!--->
 
 ---
 
 ### My Github Tropies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shrutileena)](https://github.com/shrutileena/github-profile-trophy)
-
-
-<!-- ### Can connect with me:
-
-[<img align="left" alt="shrutileena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/shruti-agarwal-7a024b157/ -->
+-->
