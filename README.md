@@ -64,11 +64,11 @@
 ## 🌟 Featured Projects
 
 ### 📄 BodhLens AI *(In Progress)*
-An AI-powered document assistant that enables users to upload documents, ask questions, generate summaries and extract insights from documents using Large Language Models (LLMs).
+An AI-powered document assistant that enables users to upload documents, ask questions, and get context-aware answers using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
 
-**Tech Stack:** Java • Spring Boot • Angular • PostgreSQL • LangChain4j • OpenAI
+**Tech Stack:** Java • Spring Boot • Angular • PostgreSQL • Ollama • PgVector • JWT Authentication
 
-🔗 Repository: *Coming Soon*
+🔗 Repository: (https://github.com/shrutileena/bodhlens-ai.git)
 
 <br>
 
