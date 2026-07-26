@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-- 💼 Java Full Stack Developer with **5+ years** of experience
+- 💼 Java Full Stack Developer with **5 years** of experience
 - ⚙️ Experienced in **Spring Boot, Microservices, Angular, REST APIs & SQL**
 - ☁️ Worked with **PostgreSQL, MongoDB, Redis, RabbitMQ & Docker**
 - 🤖 Currently building **AI-powered applications** using **LangChain4j, OpenAI & RAG**
@@ -66,7 +66,7 @@
 ### 📄 BodhLens AI *(In Progress)*
 An AI-powered document assistant that enables users to upload documents, ask questions, and get context-aware answers using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
 
-**Tech Stack:** Java • Spring Boot • Angular • PostgreSQL • Ollama • PgVector • JWT Authentication
+**Tech Stack:** Java • Spring Boot • Angular • PostgreSQL • Ollama • RAG • PgVector • JWT Authentication
 
 🔗 Repository: (https://github.com/shrutileena/bodhlens-ai.git)
 
